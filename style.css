@@ -23,9 +23,9 @@ header {
 
 h1 {
     text-transform: uppercase;
-    font-size: 4rem;
+    font-size: 5rem;
     margin: 5px;
-    line-height: 70px;
+    line-height: 80px;
 }
 
 h2 {
@@ -37,11 +37,12 @@ h1, h2 {
 }
 
 main {
-    height: 65px;
+    height: 80px;
     width: 400px;
     font-family: 'Cedarville Cursive', cursive;
     font-size: 50px;
     text-align: center;
+
 }
 
 footer {
